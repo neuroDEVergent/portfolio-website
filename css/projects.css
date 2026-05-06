@@ -30,36 +30,28 @@
   background-size: cover;
 }
 
-.project.p7 {
-  background-image: url(../assets/horizon-collapse/horizon-collapse-cover2.webp)
-}
-
-.project.p7:hover {
-  background-image: url(../assets/horizon-collapse/horizon-collapse-cover.gif)
-}
-
 .project.p6 {
-  background-image: url(../assets/tapestry/tapestry-logo.webp)
+  background-image: url(../assets/solar-system-simulation/solar-system-simulation-cover.webp)
 }
 
 .project.p6:hover {
-  background-image: url(../assets/tapestry/tapestry-cover.gif)
+  background-image: url(../assets/solar-system-simulation/solar-system-simulation-cover.gif)
 }
 
 .project.p5 {
-  background-image: url(../assets/shader-playground/shader-playground-cover.webp)
+  background-image: url(../assets/undeniable-dilemma/undeniable-dilemma-cover.webp)
 }
 
 .project.p5:hover {
-  background-image: url(../assets/shader-playground/shader-playground-cover.gif)
+  background-image: url(../assets/undeniable-dilemma/undeniable-dilemma-cover.gif)
 }
 
 .project.p4 {
-  background-image: url(../assets/opengl-lighting/opengl-lighting-cover.webp)
+  background-image: url(../assets/horizon-collapse/horizon-collapse-cover2.webp)
 }
 
 .project.p4:hover {
-  background-image: url(../assets/opengl-lighting/opengl-lighting-cover.gif)
+  background-image: url(../assets/horizon-collapse/horizon-collapse-cover.gif)
 }
 
 .project.p3 {

@@ -22,4 +22,16 @@ body {
   padding-top: 10px;
 }
 
+.links li {
+  margin-left: 0;
+  margin-right: auto;
+}
 
+.links a {
+  color: #ff9c00;
+  text-decoration: none;
+}
+
+.links a:hover {
+  text-decoration: underline;
+}
